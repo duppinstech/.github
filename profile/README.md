@@ -1,61 +1,76 @@
 # Duppins Technology
 
-> Build, run, and improve your digital systems.
+<div align="center">
 
-Duppins Technology is a web engineering and AI integration partner helping organizations ship reliable software, modern websites, and intelligent automation solutions. We specialize in WordPress development, custom web applications, and practical AI integrations designed to streamline business operations and improve customer experiences. :contentReference[oaicite:0]{index=0}
+### Build, run, and improve your digital systems.
+
+We help organizations ship reliable software, modern websites, and intelligent AI-powered automation solutions.
+
+[Website](https://duppinstech.com) • [GitHub](https://github.com/duppinstech) • [YouTube](https://www.youtube.com/@duppinstech)
+
+</div>
 
 ---
 
 ## 🚀 What We Do
 
-### WordPress Development
-We build and maintain scalable WordPress solutions including:
+<table>
+<tr>
+<td valign="top" width="33%">
 
+### WordPress Development
 - Custom themes & plugins
-- Membership platforms
-- Ecommerce integrations
-- SEO-focused architecture
-- Performance optimization
-- Security hardening & maintenance
+- Ecommerce solutions
+- SEO optimization
+- Performance tuning
+- Security hardening
+
+</td>
+<td valign="top" width="33%">
 
 ### Custom Web Applications
-We design workflow-first applications for internal operations and customer-facing platforms:
-
 - Dashboards & portals
-- Scheduling systems
-- Quoting & inventory tools
-- REST APIs & webhooks
-- Authentication & role management
-- Monitoring & lifecycle support
+- APIs & integrations
+- Workflow automation
+- Internal business systems
+- Monitoring & support
+
+</td>
+<td valign="top" width="33%">
 
 ### AI Integrations
-We implement practical AI systems that improve efficiency without sacrificing control:
-
 - AI customer service agents
 - AI receptionists & schedulers
-- CRM-integrated assistants
+- CRM-connected assistants
+- Ticket routing automation
 - Knowledge-base search
-- Automated ticket routing
-- Human-in-the-loop AI workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Core Technologies
+## 🛠 Technology & Industries
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Core Technologies
 - WordPress
 - PHP
 - JavaScript / TypeScript
 - React
 - REST APIs
-- AI & Automation Workflows
+- Cloud Hosting
 - CRM Integrations
-- VoIP & Communication Systems
-- Cloud Hosting & Deployment
+- AI Automation
 
----
+</td>
+<td valign="top" width="50%">
 
-## 🎯 Industries We Support
-
+### Industries We Support
 - Healthcare
 - Fintech
 - Retail
@@ -65,25 +80,15 @@ We implement practical AI systems that improve efficiency without sacrificing co
 - Energy
 - Entertainment
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📈 Our Approach
 
-We focus on:
-
-- Clear scope and milestone-based delivery
-- Reliable, maintainable systems
-- Practical AI implementations
-- Workflow-first software design
-- Long-term support and optimization
-
-Our mission is to help businesses automate intelligently, reduce operational friction, and scale with dependable technology solutions. :contentReference[oaicite:1]{index=1}
-
----
-
-## 🌐 Website
-
-Visit us at: [https://duppinstech.com](https://duppinstech.com)
+We focus on building maintainable systems, practical AI implementations, and workflow-first software solutions that help businesses reduce operational friction and scale efficiently.
 
 ---
 
@@ -95,20 +100,10 @@ Visit us at: [https://duppinstech.com](https://duppinstech.com)
 
 ---
 
-## 🤝 Let’s Build Something Great
+<div align="center">
 
-Whether you're launching a new platform, modernizing your operations, or exploring AI automation, Duppins Technology can help you build systems that scale.
+### 🤝 Let’s Build Something Great
 
----
+Whether you're launching a new platform or modernizing operations with AI, Duppins Technology can help you scale with dependable technology solutions.
 
-### Connect With Us
-
-- Website: https://duppinstech.com
-- GitHub: https://github.com/duppinstech
-- YouTube: https://www.youtube.com/@duppinstech
-
----
-
-## License
-
-© 2026 Duppins Technology. All rights reserved.
+</div>
