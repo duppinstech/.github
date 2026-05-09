@@ -1,30 +1,114 @@
-# 👋 Hi, I'm Odell Duppins
+# Duppins Technology
 
-I'm a web developer, automation builder, and operational problem-solver working at the intersection of travel tech and WordPress ecosystems.
+> Build, run, and improve your digital systems.
 
-## 🔧 What I Build
-- ✈️ Custom **Sabre Scribe scripts** for travel system automation
-- ⚙️ **WordPress plugins** for operational management and lead generation
-- 📄 **Gravity PDF templates** for dynamic document generation
-- 🖥️ Custom **PHP apps** for internal tools and business workflows
+Duppins Technology is a web engineering and AI integration partner helping organizations ship reliable software, modern websites, and intelligent automation solutions. We specialize in WordPress development, custom web applications, and practical AI integrations designed to streamline business operations and improve customer experiences. :contentReference[oaicite:0]{index=0}
 
-## 🚀 What I'm Learning
-- 🐍 Python for process automation  
-- ⚛️ TypeScript + React for modern web applications  
-- ☕ Java fundamentals for enterprise-level systems  
+---
 
-## 🏢 About Duppins Technology
+## 🚀 What We Do
 
-I'm also the owner of **Duppins Technology**, a company focused on delivering practical software solutions for small businesses, travel agencies, and operational teams.  
-🔗 [Visit Duppins Technology](https://duppinstech.com)
+### WordPress Development
+We build and maintain scalable WordPress solutions including:
 
-## 📂 Featured Projects
-- [Landing Page Manager](https://github.com/oduppinsjr/landing-page-manager) — WordPress plugin for managing marketing landing pages  
-- [RaidAssist Widget](https://github.com/oduppinsjr/rapidassist-widget) — Custom PHP Google App Engine widget for contacting support
-- [Sabre Scribe Scripts](https://github.com/oduppinsjr/sabre-scribe-scripts) — Collection of operational automation scripts for travel agents  
-- [Gravity PDF Templates](https://github.com/oduppinsjr/gravity-pdf-templates) - Custom built PDF templates using HTML and the mPDF framework
+- Custom themes & plugins
+- Membership platforms
+- Ecommerce integrations
+- SEO-focused architecture
+- Performance optimization
+- Security hardening & maintenance
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/oduppinsjr)
-- Email: odell@duppinstech.com
+### Custom Web Applications
+We design workflow-first applications for internal operations and customer-facing platforms:
 
+- Dashboards & portals
+- Scheduling systems
+- Quoting & inventory tools
+- REST APIs & webhooks
+- Authentication & role management
+- Monitoring & lifecycle support
+
+### AI Integrations
+We implement practical AI systems that improve efficiency without sacrificing control:
+
+- AI customer service agents
+- AI receptionists & schedulers
+- CRM-integrated assistants
+- Knowledge-base search
+- Automated ticket routing
+- Human-in-the-loop AI workflows
+
+---
+
+## 🛠 Core Technologies
+
+- WordPress
+- PHP
+- JavaScript / TypeScript
+- React
+- REST APIs
+- AI & Automation Workflows
+- CRM Integrations
+- VoIP & Communication Systems
+- Cloud Hosting & Deployment
+
+---
+
+## 🎯 Industries We Support
+
+- Healthcare
+- Fintech
+- Retail
+- Logistics
+- Ecommerce
+- Education
+- Energy
+- Entertainment
+
+---
+
+## 📈 Our Approach
+
+We focus on:
+
+- Clear scope and milestone-based delivery
+- Reliable, maintainable systems
+- Practical AI implementations
+- Workflow-first software design
+- Long-term support and optimization
+
+Our mission is to help businesses automate intelligently, reduce operational friction, and scale with dependable technology solutions. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🌐 Website
+
+Visit us at: [https://duppinstech.com](https://duppinstech.com)
+
+---
+
+## 📬 Contact
+
+- 📍 Frederick, Maryland
+- 📞 (240) 397-8048
+- ✉️ sales@duppinstech.com
+
+---
+
+## 🤝 Let’s Build Something Great
+
+Whether you're launching a new platform, modernizing your operations, or exploring AI automation, Duppins Technology can help you build systems that scale.
+
+---
+
+### Connect With Us
+
+- Website: https://duppinstech.com
+- GitHub: https://github.com/duppinstech
+- YouTube: https://www.youtube.com/@duppinstech
+
+---
+
+## License
+
+© 2026 Duppins Technology. All rights reserved.
